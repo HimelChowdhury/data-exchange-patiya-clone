@@ -1,0 +1,17 @@
+.application{
+text-align: center;
+border: 5px rgb(144, 153, 231);
+margin: 10px 450px;
+background-color: rgb(144, 153, 231);
+border-radius: 5px;
+
+}
+#Button{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: red;
+    padding: 1px 90px;
+    border-radius: 3px;
+    
+    
+}

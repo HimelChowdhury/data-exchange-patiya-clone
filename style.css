@@ -1,0 +1,36 @@
+#logo{
+    height: 60px;
+    width: 125px;
+    position: absolute;
+ top: 5px;
+}
+#HeadLine{
+    text-align: center;
+    color: rgb(53, 172, 53);
+    border: 5px solid gray;
+    margin:0  400px;
+    
+}
+#red{
+    color:tomato;
+}
+#pat-plt{
+    color:rgb(53, 70, 146);
+}
+#Vobon{
+    height: 400px;
+    width: 800px;
+   position: absolute;
+   left: 250px;
+}
+#seemoreButton{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: rgb(75, 64, 224);
+    padding: 5px;
+    border-radius: 3px;
+}
+.buttonDetail{
+    text-align: center;
+    padding: 0 100px;
+}
